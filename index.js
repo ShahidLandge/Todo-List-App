@@ -14,7 +14,9 @@ ${(document.querySelector("#newtask input").value == "")}
 <button class= "complete-btn">Completed</button>
 <button class=" delete-btn">delete</button>
 </div>
-`;
+`;  
+}
+};
 
     // deleting the item
     var current_tasks = document.querySelectorAll(".delete-btn");
@@ -46,5 +48,3 @@ ${(document.querySelector("#newtask input").value == "")}
     //     node.style.textDecoration =('line-through solid 5px black');
     //   };
     // }
-  }
-};
