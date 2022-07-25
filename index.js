@@ -25,8 +25,6 @@ ${(document.querySelector("#newtask input").value == "")}
       };
     }
     
-  }
-};  
 
     //completed or line through
 
@@ -40,7 +38,10 @@ ${(document.querySelector("#newtask input").value == "")}
           removeItem.classList.add("strikeh");
         }
       }
-    });
+    })
+  }
+};  
+
 
     // var complete = document.querySelectorAll(".complete-btn");
     // for (var i = 0; i < complete.length; i++) {
