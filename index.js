@@ -15,8 +15,7 @@ ${(document.querySelector("#newtask input").value == "")}
 <button class=" delete-btn">delete</button>
 </div>
 `;  
-}
-};
+
 
     // deleting the item
     var current_tasks = document.querySelectorAll(".delete-btn");
@@ -25,6 +24,9 @@ ${(document.querySelector("#newtask input").value == "")}
         this.parentNode.remove();
       };
     }
+    
+  }
+};  
 
     //completed or line through
 
