@@ -9,6 +9,7 @@ document.querySelector("#push").onclick = function () {
         <div class="taskContainer"> 
         <div class="task" id='input'>
 ${(inputText = document.querySelector("#inputField").value)} 
+${(document.querySelector("#newtask input").value == "")}
 </div>
 <button class= "complete-btn">Completed</button>
 <button class=" delete-btn">delete</button>
