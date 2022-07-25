@@ -35,7 +35,7 @@ h1 {
 }
 .taskContainer {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   margin-top: 30px;
   width: 800px;
@@ -55,22 +55,21 @@ h1 {
   width: 400px;
 }
   .delete-btn {
-  height: 50px;
-  width: 150px;
-  border: 1px solid black;
-  border-radius: 10px;
-  vertical-align: middle;
-  font-size: 20px;
-  margin-left: 100px;
+    height: 45px;
+    width: 85px;
+    border: 1px solid black;
+    border-radius: 8px;
+    vertical-align: middle;
+    font-size: 15px;
+    margin-left: 10px;
 }
 .complete-btn {
-  height: 50px;
-  width: 150px;
-  border: 1px solid black;
-  border-radius: 10px;
-  vertical-align: middle;
-  font-size: 20px;
-  margin-left: 100px;
+    height: 45px;
+    width: 85px;
+    border: 1px solid black;
+    border-radius: 8px;
+    vertical-align: middle;
+    font-size: 15px;
 }
 .strikeh {
   text-decoration: line-through solid 5px black;
