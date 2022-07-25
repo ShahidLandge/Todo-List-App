@@ -44,15 +44,11 @@ h1 {
   border-radius: 10px;
 }
 .task {
-  height: 40px;
   width: 400px;
-  padding: 5px;
+  padding: 3px;
   border-radius: 10px;
-  outline: none;
-  font-size: 30px;
-  text-align: center;
+  font-size: 20px;
   color: black;
-  overflow: hidden;
 }
 
 #input{
