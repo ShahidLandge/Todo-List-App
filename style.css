@@ -1,6 +1,6 @@
 html,
 body {
-/*   width: 75%; */
+
   margin: 0 auto;
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
@@ -9,13 +9,10 @@ body {
 h1 {
   color: Black;
 }
-/* .container {
-  width: 510px;
-} */
 
 .btn {
     padding: 0.7rem 1rem;
-  background-color: #61dafb;
+/*   background-color: #61dafb; */
   border: none;
   border-radius: 0.125rem;
   cursor: pointer;
@@ -26,23 +23,21 @@ h1 {
   justify-content: space-between;
   align-items: center;
   margin-top: 30px;
-/*   width: 800px; */
   padding: 10px;
   background-color: skyblue;
   border-radius: 10px;
 }
-.task {
-/*   width: 400px; */
+/* .task {
   padding: 3px;
   border-radius: 10px;
   font-size: 20px;
   color: black;
-}
+} */
 
 
   .delete-btn { */
   padding: 0.7rem 1rem;
-  background-color: #61dafb;
+/*   background-color: #61dafb; */
   border: none;
   border-radius: 0.125rem;
   cursor: pointer;
@@ -50,7 +45,7 @@ h1 {
 }
 .complete-btn {
     padding: 0.7rem 1rem;
-  background-color: #61dafb;
+/*   background-color: #61dafb; */
   border: none;
   border-radius: 0.125rem;
   cursor: pointer;
