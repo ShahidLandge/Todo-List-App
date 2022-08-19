@@ -12,7 +12,7 @@ h1 {
 .container {
   width: 510px;
 }
-#inputField {
+/* #inputField {
   width: 400px;
   height: 46px;
   padding-left: 10px;
@@ -22,7 +22,7 @@ h1 {
   outline: none;
   font-size: 25px;
   vertical-align: middle;
-}
+} */
 .btn {
     padding: 0.5rem 1rem;
   background-color: #61dafb;
