@@ -24,14 +24,12 @@ h1 {
   vertical-align: middle;
 }
 .btn {
-    height: 50px;
-    width: 80px;
-    padding: 5px;
-    border: 1px solid black;
-    border-radius: 10px;
-    vertical-align: middle;
-    font-size: 20px;
-    margin-left: 10px;
+    padding: 0.5rem 1rem;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 0.125rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
 }
 .taskContainer {
   display: flex;
@@ -55,21 +53,20 @@ h1 {
   width: 400px;
 }
   .delete-btn {
-    height: 45px;
-    width: 85px;
-    border: 1px solid black;
-    border-radius: 8px;
-    vertical-align: middle;
-    font-size: 15px;
-    margin-left: 10px;
+  padding: 0.5rem 1rem;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 0.125rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
 }
 .complete-btn {
-    height: 45px;
-    width: 85px;
-    border: 1px solid black;
-    border-radius: 8px;
-    vertical-align: middle;
-    font-size: 15px;
+    padding: 0.5rem 1rem;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 0.125rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
 }
 .strikeh {
   text-decoration: line-through;
