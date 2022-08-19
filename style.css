@@ -12,19 +12,9 @@ h1 {
 .container {
   width: 510px;
 }
-/* #inputField {
-  width: 400px;
-  height: 46px;
-  padding-left: 10px;
-  border: 1px solid black;
-  margin: 0 auto;
-  border-radius: 5px;
-  outline: none;
-  font-size: 25px;
-  vertical-align: middle;
-} */
+
 .btn {
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 1rem;
   background-color: #61dafb;
   border: none;
   border-radius: 0.125rem;
@@ -49,11 +39,11 @@ h1 {
   color: black;
 }
 
-#input{
+/* #input{
   width: 400px;
 }
-  .delete-btn {
-  padding: 0.5rem 1rem;
+  .delete-btn { */
+  padding: 0.7rem 1rem;
   background-color: #61dafb;
   border: none;
   border-radius: 0.125rem;
@@ -61,7 +51,7 @@ h1 {
   margin-bottom: 1rem;
 }
 .complete-btn {
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 1rem;
   background-color: #61dafb;
   border: none;
   border-radius: 0.125rem;
@@ -73,7 +63,7 @@ h1 {
 }
 
 input, button{
-  padding: 0.5rem 1rem;
+  padding: 0.7rem 1rem;
   border: 1px solid #D3D3D3;
   margin: 0.5rem;
   font-size: large;
