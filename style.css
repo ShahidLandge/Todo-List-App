@@ -12,7 +12,7 @@ h1 {
 
 .btn {
     padding: 0.7rem 1rem;
-/*   background-color: #61dafb; */
+  background-color: #61dafb;
   border: none;
   border-radius: 0.125rem;
   cursor: pointer;
@@ -27,17 +27,17 @@ h1 {
   background-color: skyblue;
   border-radius: 10px;
 }
-/* .task {
+.task {
   padding: 3px;
   border-radius: 10px;
   font-size: 20px;
   color: black;
-} */
+}
 
 
   .delete-btn { */
   padding: 0.7rem 1rem;
-/*   background-color: #61dafb; */
+  background-color: #61dafb;
   border: none;
   border-radius: 0.125rem;
   cursor: pointer;
@@ -45,7 +45,7 @@ h1 {
 }
 .complete-btn {
     padding: 0.7rem 1rem;
-/*   background-color: #61dafb; */
+  background-color: #61dafb;
   border: none;
   border-radius: 0.125rem;
   cursor: pointer;
