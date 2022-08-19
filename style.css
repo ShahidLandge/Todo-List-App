@@ -74,3 +74,21 @@ h1 {
 .strikeh {
   text-decoration: line-through;
 }
+
+input, button{
+  padding: 0.5rem 1rem;
+  border: 1px solid #D3D3D3;
+  margin: 0.5rem;
+  font-size: large;
+  border-radius: 0.125rem;
+}
+button{
+  cursor: pointer;
+}
+button:active{
+  background-color: #D3D3D3;
+}
+input:focus{
+  outline: none;
+  box-shadow: 0 0 1rem 0.2rem #D3D3D3;
+  background: #fff;
